@@ -1,14 +1,12 @@
-# ChuckNorrisUnaryCoding
+# Chuck Norris Unary Coding
 
 ### Coding a message using using only 0's and spaces
 
-This problem was copied from [Codingame](https://www.codingame.com/ide/puzzle/chuck-norris).
+This problem was copied from [Codingame](https://www.codingame.com/ide/puzzle/chuck-norris). All credits of the problem/coding design go to them or whoever originally thought about this encoding and the name for it.
 
 ---
 
 ## Chuck Norris Coding
-
----
 
 ## The Goal
 
